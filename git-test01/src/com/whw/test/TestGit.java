@@ -7,6 +7,7 @@ public class TestGit {
         System.out.println("hello git1");
         System.out.println("hello git1");
         System.out.println("hello git1");
+        //添加注释
         test();
     }
     public static void test(){
